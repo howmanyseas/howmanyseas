@@ -5,9 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=howmanyseas&label=Profile%20views&color=0e75b6&style=flat" alt="howmanyseas" /> </p>
 
-- 📫 How to reach me **sadetemuja@yahoo.com**
+✨ I’m passionate about crafting interactive and intuitive web applications that captivate users. With a knack for blending creativity and technical expertise, I bring ideas to life through clean, efficient code. <br>
 
-- ⚡ Fun facts <br>🏆 Chess Devotee: Winning until the board decides otherwise.<br> 🧶 Crochet Enthusiast: Tangling yarn, but not testing my patience. <br> 🕵️‍♂️ True Crime Aficionado: Solving mysteries until the jaw-dropping reveal.
+🔍 Currently exploring React and TypeScript to build dynamic and scalable applications. <br>
+
+💡 Always on the lookout for opportunities to learn and collaborate on innovative projects that push boundaries. <br>
+
+🌱 When I'm not coding, I enjoy diving into the depths of quantum physics as an online instructor or experimenting with new recipes in the kitchen. <br>
+
+📫 Reach me via sadetemuja@yahoo.com <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
