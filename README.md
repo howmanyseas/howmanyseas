@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sadete</h1>
-<h3 align="center">Front-End Alchemist: Transforming Designs into Seamless Experiences</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <img  align="right" width="400" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=howmanyseas&label=Profile%20views&color=0e75b6&style=flat" alt="howmanyseas" /> </p>
 
-✨ I’m passionate about crafting interactive and intuitive web applications that captivate users. With a knack for blending creativity and technical expertise, I bring ideas to life through clean, efficient code. <br>
+✨ With a knack for blending creativity and technical expertise, I bring ideas to life through clean, efficient code. <br>
 
-🔍 Currently exploring React and TypeScript to build dynamic and scalable applications. <br>
+🔍 Currently exploring React to build dynamic and scalable applications. <br>
 
 💡 Always on the lookout for opportunities to learn and collaborate on innovative projects that push boundaries. <br>
 
-🌱 When I'm not coding, I enjoy diving into the depths of quantum physics as an online instructor or experimenting with new recipes in the kitchen. <br>
 
 📫 Reach me via sadetemuja@yahoo.com <br>
 
