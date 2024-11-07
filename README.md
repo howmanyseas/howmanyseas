@@ -9,11 +9,11 @@
 
 ✨ They say curiosity killed the cat, but in my case, it just taught me to code (and debug endlessly). I’ve collected an arsenal of skills—partly out of curiosity, partly because "just one more tech stack" is my hobby. <br>
 
-🔍 Right now, I’m exploring React to create dynamic apps that actually make life easier (at least for users). Catch me experimenting, learning, or battling with CSS. <br>
+🔍 Right now, I try to create dynamic apps that actually make life easier (at least for users).<br>
 
-💡 I’m always up for new challenges, sarcasm-filled discussions about the latest tech, or collaborating on something innovative and boundary-pushing. <br>
+💡 I’m always up for new challenges, or collaborating on something innovative and boundary-pushing. <br>
 
-📫 Drop a line: [sadetemuja@yahoo.com](mailto:sadetemuja@yahoo.com) <br>
+📫 Say Hi : [sadetemuja@yahoo.com](mailto:sadetemuja@yahoo.com) <br>
 
 <h3 align="left">Let’s Connect:</h3>
 <p align="left">
