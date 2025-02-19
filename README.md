@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=howmanyseas&label=Profile%20views&color=0e75b6&style=flat" alt="howmanyseas" />
 </p>
 
-✨ They say curiosity killed the cat, but in my case, it just taught me to code (and debug endlessly). I’ve collected an arsenal of skills—partly out of curiosity, partly because "just one more tech stack" is my hobby. <br>
+✨ They say curiosity killed the cat, but in my case, it just taught me to code (and debug endlessly). I’ve collected a whole bunch of skills, partly out of curiosity, partly because "just one more tech stack" is what drives me. <br>
 
 🔍 Right now, I try to create dynamic apps that actually make life easier (at least for users).<br>
 
